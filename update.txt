@@ -1,1 +1,1 @@
-1.1|https://github.com/MTVCO667/app-cotizacion/releases/download/v1.1/app-release.apk
+2|https://github.com/MTVCO667/app-cotizacion/releases/download/v2/app-release.apk
